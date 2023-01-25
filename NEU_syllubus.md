@@ -1,11 +1,11 @@
-<title>LLM Lab: Product Development for Large Language Models</title>
+# LLM Lab: Product Development for Large Language Models
 
 CS 7290 Special Topics in Data Science
 Northeastern University, Khoury College of Computer Sciences
 
 Prof. Robert Osazuwa Ness
 
-# Overview
+## Overview
 
 LLM Lab is a project-led course that uses product-development techniques to build software applications that extend large language models.
 
@@ -23,14 +23,14 @@ AI-savvy developers build software applications that use this foundation model a
 This course aims to make you one of those savvy developers.
 We focus on building impactful applications on pre-trained LLMs like GPT (as opposed to how to engineer and train LLMs themselves).
 
-# Target outcomes
+## Target outcomes
 
 At the end of this course, you will have accomplished the following:
 
 * run through an AI-product-focused version of the [customer development process](https://en.wikipedia.org/wiki/Customer_development) to build a prototype of a software application that uses an LLM-based service to solve problems.
 * be prepared to give a job interview presentation about your work that talks both about technical implementation **and business impact**.
 
-# Grading and Academic Guidelines
+## Grading and Academic Guidelines
 
 The final grade for this course will be weighted as follows:
 
@@ -42,14 +42,14 @@ You will receive grades for milestones and homework assignments every other week
 
 Refresh your knowledge of the university's [policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) about academic integrity and plagiarism (this includes plagiarizing code).  There is **zero-tolerance** for cheating!
 
-## Assessments
+### Assessments
 
 You will be assigned weekly readings covering technical aspects of LLMs and related application development.
 These readings will include academic readings, software documentation, and prepared lectures.
 Learning to read academic papers is a skill that needs practice; check out [the three-pass method](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) for advice.
 You will answer quiz questions regarding the content of these readings.
 
-## Course Project
+### Course Project
 
 You will work in groups of 2-4 people on a project throughout the course.
 The project aims to have students apply design thinking to conceive, design, and field-test LLM-based applications that address real-world needs.
@@ -57,7 +57,7 @@ You will design, prototype, and test your proposed product or service.
 The design will focus on the business impact of the product or service or the impact on the beneficiaries of a nonprofit model.
 The goal is for students to develop tech product development skills that leverage an informed and sober understanding of an AI technology's potential, limitations, and risks.
 
-### How is this different from other computer science/data science/machine learning class projects?
+#### How is this different from other computer science/data science/machine learning class projects?
 
 Most class projects focus purely on code implementation.
 However, for foundation models like LLMs, there are plenty of publically available repositories and tools (e.g., [Lightning.ai](https://lightning.ai/)) that make it easy to spin up working prototypes quickly.
@@ -71,7 +71,7 @@ In this course, the project focuses on the following:
 In this respect, the goal is not to code up a complicated application and submit it in a repo.
 The goal is to iteratively get feedback from potential users and customers on "quick and dirty" prototypes of your application.
 
-### What are the deliverables, and how will I be graded?
+#### What are the deliverables, and how will I be graded?
 
 Your project group will work through an interactive notebook.
 The workbook will have weekly assignments ranging from:
@@ -82,7 +82,7 @@ The workbook will have weekly assignments ranging from:
 
 Aside from the weekly submissions, the final deliverable is a presentation of your findings.
 
-# Suggested Prerequisites
+## Suggested Prerequisites
 
 Suggested prerequisites include (DS5220 and DS5230) or (CS6140 and CS6220).
 
