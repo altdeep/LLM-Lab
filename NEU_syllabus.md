@@ -7,20 +7,18 @@ Prof. Robert Osazuwa Ness
 
 ## Overview
 
-LLM Lab is a project-led course that uses product-development techniques to build software applications that extend large language models.
+LLM Lab is a project-led seminar course course that uses product-development techniques to build software applications that extend large language models.
 
 A large language model (LLM) is an artificial intelligence model trained on a large dataset of text data.
 LLMs can generate human-like text that is helpful in various tasks, such as language translation, text summarization, and question-answering.
-Some examples of large language models include versions of GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers).
+Some examples of large language models include ChatGPT and LaMDA.
 
 An LLM is an example of a foundation model -- a large artificial intelligence model trained on a vast quantity of unlabeled data at scale resulting in a model that can be adapted to a wide range of downstream tasks.
 
-Many graduate computer science and data science classes often focus on understanding, building, and training statistical and machine learning models.
-However, highly performant foundation models can require several million dollars to train.
+Highly performant foundation models can require several million dollars to train.
 As a result, a model is emerging where tech companies invest in pre-training these models, then provide access to them through services such as Azure OpenAI Service and Hugging Face.
-AI-savvy developers build software applications that use this foundation model access to solve downstream tasks.
-
-This course aims to make you one of those savvy developers.
+AI-savvy developers build products where this foundation model is one element in a stack.
+This course aims to make you one of those AI product developers.
 We focus on building impactful applications on pre-trained LLMs like GPT (as opposed to how to engineer and train LLMs themselves).
 
 ## Target outcomes
@@ -34,9 +32,10 @@ At the end of this course, you will have accomplished the following:
 
 The final grade for this course will be weighted as follows:
 
-    Assessment Questions: 25%
+    Assessment Questions: 15%
     Weekly Project Milestones: 50%
-    Class Project Presentation: 25%
+    Class Project Presentation: 15%
+    Attendance: 20%
 
 You will receive grades for milestones and homework assignments every other week.
 
@@ -81,6 +80,18 @@ The workbook will have weekly assignments ranging from:
 * Product wireframes, mockups, and examples using publically available LLMs
 
 Aside from the weekly submissions, the final deliverable is a presentation of your findings.
+
+### Attendance
+
+This course is an online class **with a project-based seminar format**.  "Project-based seminar format" means class time will often involve students leading discussion on topics the prepared before online sessions.
+
+Attendance points is based on the following:
+
+* Attending scheduled online sessions with the camera on.
+* Participating in and sometimes leading discussion.
+* Asking and answering questions each class session
+
+The class participation is taken seriously because more participation leads to a better quality class.  Please be aware that if you do not participate, it will negatively affect your final grade.
 
 ## Suggested Prerequisites
 
