@@ -50,11 +50,9 @@ You will answer quiz questions regarding the content of these readings.
 
 ### Course Project
 
-You will work in groups of 2-4 people on a project throughout the course.
-The project aims to have students apply design thinking to conceive, design, and field-test LLM-based applications that address real-world needs.
-You will design, prototype, and test your proposed product or service.
-The design will focus on the business impact of the product or service or the impact on the beneficiaries of a nonprofit model.
-The goal is for students to develop tech product development skills that leverage an informed and sober understanding of an AI technology's potential, limitations, and risks.
+The project aims to have students apply design thinking to conceive, design, and field-test LLM-based applications that address real-world needs. You will design, prototype, and test your proposed product or service. The design will focus on the business impact of the product or service or the impact on the beneficiaries of a nonprofit model. The goal is for students to develop tech product development skills that leverage an informed and sober understanding of an AI technology's potential, limitations, and risks.
+
+See the detailed [project description page](https://github.com/altdeep/LLM-Lab/blob/main/neu_capstone_project.md).
 
 #### How is this different from other computer science/data science/machine learning class projects?
 
